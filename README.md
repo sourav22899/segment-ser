@@ -20,3 +20,16 @@ To implement the code, the following two data files needs to be downloaded:
   in NumPy compressed archive format.
 After downloading these files into the same directory as this README.
 
+## Citation
+If you find this repo useful in your research, please consider to cite the following paper:
+
+```
+@inproceedings{sahoo2019segment,
+  title={A Segment Level Approach to Speech Emotion Recognition Using Transfer Learning},
+  author={Sahoo, Sourav and Kumar, Puneet and Raman, Balasubramanian and Roy, Partha Pratim},
+  booktitle={Asian Conference on Pattern Recognition},
+  pages={435--448},
+  year={2019},
+  organization={Springer}
+}
+```
