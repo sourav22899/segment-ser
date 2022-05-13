@@ -21,7 +21,7 @@ To implement the code, the following two data files needs to be downloaded:
 After downloading these files into the same directory as this README.
 
 ## Citation
-If you find this repo useful in your research, please consider to cite the following paper:
+If you find this repo useful in your research, please consider citing the following paper:
 
 ```
 @inproceedings{sahoo2019segment,
